@@ -1,0 +1,85 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+}
+
+.container {
+  width: 85%;
+  margin: 40px auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.btn {
+  background: #2ecc71;
+  padding: 10px 18px;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.search {
+  width: 250px;
+  padding: 10px;
+  margin: 20px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+th {
+  background: #42515f;
+  color: white;
+  padding: 14px;
+}
+
+td {
+  padding: 14px;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
+
+tr:hover {
+  background: #f9fbfc;
+}
+
+/* Department badge */
+.badge {
+  background: #e8f5e9;
+  color: #2ecc71;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+/* Action icons */
+.edit {
+  color: #3498db;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.delete {
+  color: #e74c3c;
+  text-decoration: none;
+  font-size: 18px;
+}

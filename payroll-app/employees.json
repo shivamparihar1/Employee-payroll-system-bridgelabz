@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Shivam Parihar",
+    "department": "CSE",
+    "salary": 50000
+  },
+  {
+    "id": 2,
+    "name": "Ankit Kumar",
+    "department": "IT",
+    "salary": 60000
+  },
+  {
+    "id": 3,
+    "name": "Priya Singh",
+    "department": "HR",
+    "salary": 55000
+  },
+  {
+    "id": 4,
+    "name": "Rahul Verma",
+    "department": "Finance",
+    "salary": 65000
+  },
+  {
+    "id": 5,
+    "name": "Sneha Gupta",
+    "department": "Marketing",
+    "salary": 48000
+  },
+  {
+    "id": 6,
+    "name": "Amit Sharma",
+    "department": "Sales",
+    "salary": 52000
+  },
+  {
+    "id": 7,
+    "name": "Neha Reddy",
+    "department": "Operations",
+    "salary": 58000
+  },
+  {
+    "id": 8,
+    "name": "Vikram Singh",
+    "department": "Logistics",
+    "salary": 47000
+  },
+  {
+    "id": 9,
+    "name": "Pooja Mehta",
+    "department": "Customer Support",
+    "salary": 45000
+  },
+  {
+    "id": 10,
+    "name": "Rohit Kumar",
+    "department": "Research and Development",
+    "salary": 70000
+  }
+]
