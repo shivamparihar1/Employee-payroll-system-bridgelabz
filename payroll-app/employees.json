@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Shivam Parihar",
     "department": "CSE",
-    "salary": 50000
+    "salary": 500000
   },
   {
     "id": 2,
@@ -20,13 +20,13 @@
   {
     "id": 4,
     "name": "Rahul Verma",
-    "department": "Finance",
+    "department": "CSE",
     "salary": 65000
   },
   {
     "id": 5,
     "name": "Sneha Gupta",
-    "department": "Marketing",
+    "department": "CSE",
     "salary": 48000
   },
   {
@@ -38,25 +38,25 @@
   {
     "id": 7,
     "name": "Neha Reddy",
-    "department": "Operations",
+    "department": "IT",
     "salary": 58000
   },
   {
     "id": 8,
     "name": "Vikram Singh",
-    "department": "Logistics",
+    "department": "CSE",
     "salary": 47000
-  },
-  {
-    "id": 9,
-    "name": "Pooja Mehta",
-    "department": "Customer Support",
-    "salary": 45000
   },
   {
     "id": 10,
     "name": "Rohit Kumar",
     "department": "Research and Development",
     "salary": 70000
+  },
+  {
+    "id": 1771395799282,
+    "name": "Lalit ",
+    "department": "CSE",
+    "salary": 50000
   }
 ]
